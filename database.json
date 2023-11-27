@@ -1,0 +1,956 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "Dr. Jekyll and Mr. Hyde",
+      "calificacion": 1,
+      "clasifiacion": 7,
+      "anio": 2011,
+      "descripcion": "Maternal care for excess fetal growth, third tri, fetus 2",
+      "idGenero": 7
+    },
+    {
+      "id": 2,
+      "nombre": "Hypothesis of the Stolen Painting, The (L'hypothèse du tableau volé)",
+      "calificacion": 2,
+      "clasifiacion": 18,
+      "anio": 1999,
+      "descripcion": "Osteophyte, left ankle",
+      "idGenero": 3
+    },
+    {
+      "id": 3,
+      "nombre": "Elevator Girl",
+      "calificacion": 4,
+      "clasifiacion": 7,
+      "anio": 2002,
+      "descripcion": "Unspecified traumatic cataract, bilateral",
+      "idGenero": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Mary",
+      "calificacion": 1,
+      "clasifiacion": 18,
+      "anio": 2003,
+      "descripcion": "Injury of unsp nerve at ank/ft level, right leg, sequela",
+      "idGenero": 7
+    },
+    {
+      "id": 5,
+      "nombre": "Gun the Man Down",
+      "calificacion": 1,
+      "clasifiacion": 0,
+      "anio": 2016,
+      "descripcion": "Occup ant specl indust veh injured in transport accident",
+      "idGenero": 8
+    },
+    {
+      "id": 6,
+      "nombre": "It's Love I'm After",
+      "calificacion": 1,
+      "clasifiacion": 0,
+      "anio": 2009,
+      "descripcion": "Corrosion of second degree of left thigh, subs encntr",
+      "idGenero": 3
+    },
+    {
+      "id": 7,
+      "nombre": "Targets",
+      "calificacion": 5,
+      "clasifiacion": 18,
+      "anio": 2019,
+      "descripcion": "War op involving unarmed hand to hand combat, milt, subs",
+      "idGenero": 3
+    },
+    {
+      "id": 8,
+      "nombre": "Alligator",
+      "calificacion": 4,
+      "clasifiacion": 0,
+      "anio": 2011,
+      "descripcion": "Nondisplaced unspecified fracture of right lesser toe(s)",
+      "idGenero": 7
+    },
+    {
+      "id": 9,
+      "nombre": "Chasing Sleep",
+      "calificacion": 5,
+      "clasifiacion": 3,
+      "anio": 2009,
+      "descripcion": "Displ oblique fx shaft of r fibula, 7thQ",
+      "idGenero": 6
+    },
+    {
+      "id": 10,
+      "nombre": "Pool, The",
+      "calificacion": 1,
+      "clasifiacion": 10,
+      "anio": 2004,
+      "descripcion": "Rectocele",
+      "idGenero": 6
+    },
+    {
+      "id": 11,
+      "nombre": "At Home by Myself... with You",
+      "calificacion": 4,
+      "clasifiacion": 18,
+      "anio": 2017,
+      "descripcion": "Toxic effect of hydrogen cyanide, self-harm, sequela",
+      "idGenero": 3
+    },
+    {
+      "id": 12,
+      "nombre": "Hotel Chevalier (Part 1 of 'The Darjeeling Limited')",
+      "calificacion": 1,
+      "clasifiacion": 0,
+      "anio": 1992,
+      "descripcion": "Drug-induced chronic gout, unsp ankle and foot, w/o tophus",
+      "idGenero": 9
+    },
+    {
+      "id": 13,
+      "nombre": "Pig's Tale, A",
+      "calificacion": 5,
+      "clasifiacion": 18,
+      "anio": 1991,
+      "descripcion": "Displ avuls fx (chip fracture) of l talus, 7thD",
+      "idGenero": 10
+    },
+    {
+      "id": 14,
+      "nombre": "Somebody to Love",
+      "calificacion": 1,
+      "clasifiacion": 3,
+      "anio": 1993,
+      "descripcion": "Lead-induced chronic gout, left knee, without tophus (tophi)",
+      "idGenero": 5
+    },
+    {
+      "id": 15,
+      "nombre": "One Night with the King",
+      "calificacion": 5,
+      "clasifiacion": 0,
+      "anio": 2008,
+      "descripcion": "Occup of hv veh injured in nonclsn trnsp acc nontraf, init",
+      "idGenero": 8
+    },
+    {
+      "id": 16,
+      "nombre": "Frankenstein",
+      "calificacion": 1,
+      "clasifiacion": 16,
+      "anio": 2010,
+      "descripcion": "Monoplg upr lmb fol cerebral infrc aff left nondom side",
+      "idGenero": 2
+    },
+    {
+      "id": 17,
+      "nombre": "Jesus Is a Palestinian (Jezus is een Palestijn)",
+      "calificacion": 2,
+      "clasifiacion": 3,
+      "anio": 1996,
+      "descripcion": "Nondisp fx of base of 2nd MC bone, r hand, init for opn fx",
+      "idGenero": 5
+    },
+    {
+      "id": 18,
+      "nombre": "As Above, So Below",
+      "calificacion": 3,
+      "clasifiacion": 18,
+      "anio": 2008,
+      "descripcion": "Nondisp oth extrartic fx r calcaneus, init for opn fx",
+      "idGenero": 6
+    },
+    {
+      "id": 19,
+      "nombre": "Attack of the 50 Foot Woman",
+      "calificacion": 1,
+      "clasifiacion": 10,
+      "anio": 1999,
+      "descripcion": "Poisoning by glucocort/synth analog, self-harm, init",
+      "idGenero": 7
+    },
+    {
+      "id": 20,
+      "nombre": "A.I. Artificial Intelligence",
+      "calificacion": 4,
+      "clasifiacion": 18,
+      "anio": 2009,
+      "descripcion": "Diaper dermatitis",
+      "idGenero": 8
+    },
+    {
+      "id": 21,
+      "nombre": "Reefer Madness: The Movie Musical",
+      "calificacion": 1,
+      "clasifiacion": 10,
+      "anio": 1993,
+      "descripcion": "Oth disp fx of fourth cervcal vert, subs for fx w delay heal",
+      "idGenero": 3
+    },
+    {
+      "id": 22,
+      "nombre": "Arc",
+      "calificacion": 2,
+      "clasifiacion": 18,
+      "anio": 1991,
+      "descripcion": "Toxic effect of benzene, intentional self-harm",
+      "idGenero": 5
+    },
+    {
+      "id": 23,
+      "nombre": "Mighty Wind, A",
+      "calificacion": 5,
+      "clasifiacion": 3,
+      "anio": 1994,
+      "descripcion": "Displ spiral fx shaft of l femr, 7thM",
+      "idGenero": 9
+    },
+    {
+      "id": 24,
+      "nombre": "The Man Who Wouldn't Die",
+      "calificacion": 4,
+      "clasifiacion": 7,
+      "anio": 1997,
+      "descripcion": "Radiation-induced polyneuropathy",
+      "idGenero": 4
+    },
+    {
+      "id": 25,
+      "nombre": "Eagle Has Two Heads, The (L'aigle à deux têtes)",
+      "calificacion": 2,
+      "clasifiacion": 5,
+      "anio": 2008,
+      "descripcion": "Diab with prolif diab rtnop without macular edema, left eye",
+      "idGenero": 9
+    },
+    {
+      "id": 26,
+      "nombre": "State of the Union",
+      "calificacion": 4,
+      "clasifiacion": 16,
+      "anio": 2021,
+      "descripcion": "Unsp physl fx lower end of l femur, subs for fx w routn heal",
+      "idGenero": 2
+    },
+    {
+      "id": 27,
+      "nombre": "Fresh",
+      "calificacion": 3,
+      "clasifiacion": 0,
+      "anio": 2010,
+      "descripcion": "Other spacecraft accident injuring occupant, sequela",
+      "idGenero": 8
+    },
+    {
+      "id": 28,
+      "nombre": "Silent Wedding (Nunta Muta)",
+      "calificacion": 4,
+      "clasifiacion": 10,
+      "anio": 2015,
+      "descripcion": "Osteopathy after poliomyelitis, right ankle and foot",
+      "idGenero": 2
+    },
+    {
+      "id": 29,
+      "nombre": "Zodiac",
+      "calificacion": 1,
+      "clasifiacion": 10,
+      "anio": 2014,
+      "descripcion": "Other polyglandular dysfunction",
+      "idGenero": 3
+    },
+    {
+      "id": 30,
+      "nombre": "Only the Strong",
+      "calificacion": 4,
+      "clasifiacion": 10,
+      "anio": 2005,
+      "descripcion": "Displ longitud fx l patella, 7thN",
+      "idGenero": 1
+    },
+    {
+      "id": 31,
+      "nombre": "Three Days of the Condor (3 Days of the Condor)",
+      "calificacion": 1,
+      "clasifiacion": 10,
+      "anio": 2007,
+      "descripcion": "Rheumatoid lung disease w rheumatoid arthritis of unsp hip",
+      "idGenero": 9
+    },
+    {
+      "id": 32,
+      "nombre": "Secrets of a Soul (Geheimnisse einer Seele)",
+      "calificacion": 3,
+      "clasifiacion": 5,
+      "anio": 1998,
+      "descripcion": "Corrosion of first degree of ankle",
+      "idGenero": 2
+    },
+    {
+      "id": 33,
+      "nombre": "Take Aim at the Police Van (Sono gosôsha wo nerae: 'Jûsangô taihisen' yori)",
+      "calificacion": 4,
+      "clasifiacion": 18,
+      "anio": 2021,
+      "descripcion": "Burn unsp degree of unsp site unsp lower limb, except ank/ft",
+      "idGenero": 4
+    },
+    {
+      "id": 34,
+      "nombre": "Elizabethtown",
+      "calificacion": 2,
+      "clasifiacion": 5,
+      "anio": 2012,
+      "descripcion": "Laceration of unsp tibial artery, right leg, init encntr",
+      "idGenero": 1
+    },
+    {
+      "id": 35,
+      "nombre": "Trans-Atlantic Tunnel (Tunnel, The)",
+      "calificacion": 5,
+      "clasifiacion": 7,
+      "anio": 1997,
+      "descripcion": "Retinopathy of prematurity, stage 1, left eye",
+      "idGenero": 1
+    },
+    {
+      "id": 36,
+      "nombre": "Oxygen",
+      "calificacion": 4,
+      "clasifiacion": 3,
+      "anio": 2011,
+      "descripcion": "Dislocation of MCP joint of right ring finger, subs",
+      "idGenero": 10
+    },
+    {
+      "id": 37,
+      "nombre": "Whistling in Dixie",
+      "calificacion": 4,
+      "clasifiacion": 7,
+      "anio": 1999,
+      "descripcion": "Dissection of artery of upper extremity",
+      "idGenero": 8
+    },
+    {
+      "id": 38,
+      "nombre": "Ill Manors",
+      "calificacion": 4,
+      "clasifiacion": 0,
+      "anio": 2005,
+      "descripcion": "Unsp traum displ spondylolysis of 3rd cervcal vert, 7thB",
+      "idGenero": 8
+    },
+    {
+      "id": 39,
+      "nombre": "Wayward Cloud, The (Tian bian yi duo yun)",
+      "calificacion": 1,
+      "clasifiacion": 18,
+      "anio": 2018,
+      "descripcion": "Electrolytic, caloric and water-balance agents",
+      "idGenero": 7
+    },
+    {
+      "id": 40,
+      "nombre": "Summer School",
+      "calificacion": 4,
+      "clasifiacion": 18,
+      "anio": 1991,
+      "descripcion": "Encounter for other procreative management",
+      "idGenero": 6
+    },
+    {
+      "id": 41,
+      "nombre": "Star Wars: Episode VI - Return of the Jedi",
+      "calificacion": 3,
+      "clasifiacion": 18,
+      "anio": 2002,
+      "descripcion": "Corrosion of unsp degree of right forearm, init encntr",
+      "idGenero": 7
+    },
+    {
+      "id": 42,
+      "nombre": "Untamed Youth",
+      "calificacion": 4,
+      "clasifiacion": 5,
+      "anio": 2008,
+      "descripcion": "Unsp traum nondisp spondylolysis of sixth cervcal vert, 7thD",
+      "idGenero": 8
+    },
+    {
+      "id": 43,
+      "nombre": "Super Capers",
+      "calificacion": 1,
+      "clasifiacion": 3,
+      "anio": 1993,
+      "descripcion": "Other interstitial and deep keratitis, left eye",
+      "idGenero": 4
+    },
+    {
+      "id": 44,
+      "nombre": "Nobody Knows Anything!",
+      "calificacion": 4,
+      "clasifiacion": 7,
+      "anio": 1999,
+      "descripcion": "Fx humerus fol insrt ortho implnt/prosth/bone plt, unsp arm",
+      "idGenero": 3
+    },
+    {
+      "id": 45,
+      "nombre": "Jane Austen's Mafia!",
+      "calificacion": 5,
+      "clasifiacion": 7,
+      "anio": 2021,
+      "descripcion": "Superficial foreign body of right forearm, subs encntr",
+      "idGenero": 9
+    },
+    {
+      "id": 46,
+      "nombre": "Half Moon Street",
+      "calificacion": 2,
+      "clasifiacion": 3,
+      "anio": 2014,
+      "descripcion": "Displaced avulsion fx tuberosity of r calcaneus, sequela",
+      "idGenero": 8
+    },
+    {
+      "id": 47,
+      "nombre": "Zen",
+      "calificacion": 3,
+      "clasifiacion": 0,
+      "anio": 1991,
+      "descripcion": "Toxic effect of venom of wasps, accidental, init",
+      "idGenero": 4
+    },
+    {
+      "id": 48,
+      "nombre": "Spanish Earth, The",
+      "calificacion": 2,
+      "clasifiacion": 5,
+      "anio": 2001,
+      "descripcion": "Unsp injury of unsp blood vessel at wrist and hand level",
+      "idGenero": 2
+    },
+    {
+      "id": 49,
+      "nombre": "Shiver of the Vampires, The (Frisson des vampires, Le)",
+      "calificacion": 2,
+      "clasifiacion": 5,
+      "anio": 2009,
+      "descripcion": "Pressure ulcer of left elbow, stage 1",
+      "idGenero": 7
+    },
+    {
+      "id": 50,
+      "nombre": "Long Voyage Home, The",
+      "calificacion": 5,
+      "clasifiacion": 7,
+      "anio": 1995,
+      "descripcion": "Burn of unspecified degree of unspecified elbow, sequela",
+      "idGenero": 1
+    },
+    {
+      "id": 51,
+      "nombre": "Gett: The Trial of Viviane Amsalem",
+      "calificacion": 4,
+      "clasifiacion": 16,
+      "anio": 1998,
+      "descripcion": "Unsp trochanteric fracture of unsp femur, init for clos fx",
+      "idGenero": 7
+    },
+    {
+      "id": 52,
+      "nombre": "Secret Agent, The",
+      "calificacion": 2,
+      "clasifiacion": 16,
+      "anio": 2017,
+      "descripcion": "Neoplasm of uncertain behavior of adrenal gland",
+      "idGenero": 2
+    },
+    {
+      "id": 53,
+      "nombre": "Caliber 9",
+      "calificacion": 1,
+      "clasifiacion": 3,
+      "anio": 2023,
+      "descripcion": "Acquired deformities of toe(s), unspecified, left foot",
+      "idGenero": 5
+    },
+    {
+      "id": 54,
+      "nombre": "Undercurrent",
+      "calificacion": 5,
+      "clasifiacion": 7,
+      "anio": 2010,
+      "descripcion": "Unsp inj unsp blood vess at shldr/up arm, left arm, subs",
+      "idGenero": 5
+    },
+    {
+      "id": 55,
+      "nombre": "Man on Fire",
+      "calificacion": 5,
+      "clasifiacion": 7,
+      "anio": 2022,
+      "descripcion": "Contusion of lower back and pelvis, initial encounter",
+      "idGenero": 5
+    },
+    {
+      "id": 56,
+      "nombre": "Skeleton Key, The",
+      "calificacion": 2,
+      "clasifiacion": 16,
+      "anio": 1997,
+      "descripcion": "Toxic effect of trichloroethylene, undetermined",
+      "idGenero": 3
+    },
+    {
+      "id": 57,
+      "nombre": "Fixer, The",
+      "calificacion": 5,
+      "clasifiacion": 7,
+      "anio": 2011,
+      "descripcion": "Nondisp suprcndl fx w intrcndl extn low end unsp femr, 7thG",
+      "idGenero": 8
+    },
+    {
+      "id": 58,
+      "nombre": "Chronicle of Anna Magdalena Bach, The (Chronik der Anna Magdalena Bach)",
+      "calificacion": 4,
+      "clasifiacion": 7,
+      "anio": 2022,
+      "descripcion": "Nondisp fx of greater trochanter of l femr, 7thG",
+      "idGenero": 9
+    },
+    {
+      "id": 59,
+      "nombre": "Meet Joe Black",
+      "calificacion": 5,
+      "clasifiacion": 3,
+      "anio": 2018,
+      "descripcion": "Exposure to sunlight, subsequent encounter",
+      "idGenero": 9
+    },
+    {
+      "id": 60,
+      "nombre": "Stand Up and Cheer!",
+      "calificacion": 3,
+      "clasifiacion": 16,
+      "anio": 2001,
+      "descripcion": "Unsp Escherichia coli as the cause of diseases classd elswhr",
+      "idGenero": 10
+    },
+    {
+      "id": 61,
+      "nombre": "Baby's Day Out",
+      "calificacion": 2,
+      "clasifiacion": 18,
+      "anio": 1994,
+      "descripcion": "Pathological fracture, other site, sequela",
+      "idGenero": 5
+    },
+    {
+      "id": 62,
+      "nombre": "Annabelle",
+      "calificacion": 2,
+      "clasifiacion": 3,
+      "anio": 1998,
+      "descripcion": "Decreased fetal movements, third trimester",
+      "idGenero": 10
+    },
+    {
+      "id": 63,
+      "nombre": "Set It Off",
+      "calificacion": 1,
+      "clasifiacion": 10,
+      "anio": 2007,
+      "descripcion": "Diffuse TBI w LOC >24 hr w return to conscious levels, init",
+      "idGenero": 7
+    },
+    {
+      "id": 64,
+      "nombre": "Dance of the Dead",
+      "calificacion": 1,
+      "clasifiacion": 7,
+      "anio": 2022,
+      "descripcion": "Osteonecrosis due to drugs, tibia and fibula",
+      "idGenero": 1
+    },
+    {
+      "id": 65,
+      "nombre": "Urban Legend",
+      "calificacion": 1,
+      "clasifiacion": 5,
+      "anio": 2007,
+      "descripcion": "Other specified sprain of right wrist",
+      "idGenero": 3
+    },
+    {
+      "id": 66,
+      "nombre": "Beyond All Boundaries",
+      "calificacion": 4,
+      "clasifiacion": 16,
+      "anio": 2016,
+      "descripcion": "Encounter for screening for musculoskeletal disorder",
+      "idGenero": 2
+    },
+    {
+      "id": 67,
+      "nombre": "Hansel & Gretel: Witch Hunters",
+      "calificacion": 5,
+      "clasifiacion": 10,
+      "anio": 1993,
+      "descripcion": "Toxic liver disease with hepatic necrosis",
+      "idGenero": 7
+    },
+    {
+      "id": 68,
+      "nombre": "Circle of Deception, A",
+      "calificacion": 5,
+      "clasifiacion": 16,
+      "anio": 2009,
+      "descripcion": "Burn of third degree of lower back, initial encounter",
+      "idGenero": 2
+    },
+    {
+      "id": 69,
+      "nombre": "Pokrajina St.2",
+      "calificacion": 5,
+      "clasifiacion": 16,
+      "anio": 2006,
+      "descripcion": "Trichomonal vulvovaginitis",
+      "idGenero": 10
+    },
+    {
+      "id": 70,
+      "nombre": "Tess of the Storm Country",
+      "calificacion": 1,
+      "clasifiacion": 7,
+      "anio": 2004,
+      "descripcion": "Strain of intrinsic musc/fasc/tend l rng fngr at wrs/hnd lv",
+      "idGenero": 9
+    },
+    {
+      "id": 71,
+      "nombre": "Kahaani",
+      "calificacion": 2,
+      "clasifiacion": 10,
+      "anio": 1996,
+      "descripcion": "Lacerat extensor musc/fasc/tend r rng fngr at forarm lv",
+      "idGenero": 9
+    },
+    {
+      "id": 72,
+      "nombre": "Toi et Moi",
+      "calificacion": 3,
+      "clasifiacion": 16,
+      "anio": 1993,
+      "descripcion": "Corrosion of first degree of forehead and cheek, init encntr",
+      "idGenero": 5
+    },
+    {
+      "id": 73,
+      "nombre": "Susannah of the Mounties",
+      "calificacion": 3,
+      "clasifiacion": 3,
+      "anio": 1994,
+      "descripcion": "Congenital cyst of mediastinum",
+      "idGenero": 2
+    },
+    {
+      "id": 74,
+      "nombre": "Parasites, Les",
+      "calificacion": 3,
+      "clasifiacion": 18,
+      "anio": 2011,
+      "descripcion": "Rheumatoid nodule, multiple sites",
+      "idGenero": 7
+    },
+    {
+      "id": 75,
+      "nombre": "Kickboxer 3: The Art of War (Kickboxer III: The Art of War)",
+      "calificacion": 3,
+      "clasifiacion": 3,
+      "anio": 2012,
+      "descripcion": "Motorized mobility scooter colliding w statnry obj, init",
+      "idGenero": 9
+    },
+    {
+      "id": 76,
+      "nombre": "Way We Laughed, The (Così Ridevano)",
+      "calificacion": 5,
+      "clasifiacion": 5,
+      "anio": 2019,
+      "descripcion": "Disp fx of medial phalanx of left little finger, init",
+      "idGenero": 10
+    },
+    {
+      "id": 77,
+      "nombre": "Eerie Tales (Unheimliche Geschichten)",
+      "calificacion": 3,
+      "clasifiacion": 7,
+      "anio": 1991,
+      "descripcion": "Poisn by analeptics and opioid receptor antag, assault, subs",
+      "idGenero": 4
+    },
+    {
+      "id": 78,
+      "nombre": "Pocket Money",
+      "calificacion": 5,
+      "clasifiacion": 3,
+      "anio": 1998,
+      "descripcion": "Other physeal fracture of unspecified metatarsal, init",
+      "idGenero": 5
+    },
+    {
+      "id": 79,
+      "nombre": "Gathering of Old Men, A (Murder on the Bayou)",
+      "calificacion": 1,
+      "clasifiacion": 18,
+      "anio": 2005,
+      "descripcion": "Inj flexor musc/fasc/tend thumb at forearm level",
+      "idGenero": 5
+    },
+    {
+      "id": 80,
+      "nombre": "O.C. and Stiggs",
+      "calificacion": 2,
+      "clasifiacion": 7,
+      "anio": 1997,
+      "descripcion": "Assault by gasoline bomb, initial encounter",
+      "idGenero": 9
+    },
+    {
+      "id": 81,
+      "nombre": "Wrong Turn 2: Dead End",
+      "calificacion": 3,
+      "clasifiacion": 16,
+      "anio": 2020,
+      "descripcion": "Mallet finger",
+      "idGenero": 3
+    },
+    {
+      "id": 82,
+      "nombre": "Creep Van",
+      "calificacion": 3,
+      "clasifiacion": 0,
+      "anio": 2009,
+      "descripcion": "Refractive amblyopia, right eye",
+      "idGenero": 3
+    },
+    {
+      "id": 83,
+      "nombre": "Young Master, The (Shi di chu ma)",
+      "calificacion": 5,
+      "clasifiacion": 10,
+      "anio": 1991,
+      "descripcion": "Puncture wound without foreign body of right shoulder",
+      "idGenero": 9
+    },
+    {
+      "id": 84,
+      "nombre": "Soylent Green",
+      "calificacion": 4,
+      "clasifiacion": 3,
+      "anio": 1999,
+      "descripcion": "Poisoning by antipruritics, intentional self-harm",
+      "idGenero": 2
+    },
+    {
+      "id": 85,
+      "nombre": "No Way Out",
+      "calificacion": 3,
+      "clasifiacion": 18,
+      "anio": 2022,
+      "descripcion": "Oth fx upr and low end r fibula, subs for clos fx w nonunion",
+      "idGenero": 2
+    },
+    {
+      "id": 86,
+      "nombre": "Castle, The (Das Schloß)",
+      "calificacion": 5,
+      "clasifiacion": 10,
+      "anio": 2008,
+      "descripcion": "Unsp injury of axillary artery, right side, init encntr",
+      "idGenero": 1
+    },
+    {
+      "id": 87,
+      "nombre": "Beats Being Dead (Dreileben - Etwas Besseres als den Tod)",
+      "calificacion": 5,
+      "clasifiacion": 0,
+      "anio": 2015,
+      "descripcion": "Poisn by cephalospor/oth beta-lactm antibiot, asslt, sequela",
+      "idGenero": 4
+    },
+    {
+      "id": 88,
+      "nombre": "Keeper, The",
+      "calificacion": 5,
+      "clasifiacion": 18,
+      "anio": 2014,
+      "descripcion": "Burn of second degree of trunk, unsp site, subs encntr",
+      "idGenero": 6
+    },
+    {
+      "id": 89,
+      "nombre": "Dungeon Masters, The",
+      "calificacion": 4,
+      "clasifiacion": 5,
+      "anio": 2006,
+      "descripcion": "Mech compl of esophageal anti-reflux device, sequela",
+      "idGenero": 2
+    },
+    {
+      "id": 90,
+      "nombre": "Flash of Genius",
+      "calificacion": 4,
+      "clasifiacion": 0,
+      "anio": 2018,
+      "descripcion": "Sltr-haris Type III physl fx upr end r tibia, 7thK",
+      "idGenero": 6
+    },
+    {
+      "id": 91,
+      "nombre": "Lake Tahoe",
+      "calificacion": 1,
+      "clasifiacion": 10,
+      "anio": 2003,
+      "descripcion": "Maternal care for scar from previous cesarean delivery",
+      "idGenero": 8
+    },
+    {
+      "id": 92,
+      "nombre": "Sarah, Plain and Tall",
+      "calificacion": 1,
+      "clasifiacion": 5,
+      "anio": 2009,
+      "descripcion": "Emphysema (subcutaneous) resulting from a procedure",
+      "idGenero": 5
+    },
+    {
+      "id": 93,
+      "nombre": "Criminals",
+      "calificacion": 2,
+      "clasifiacion": 10,
+      "anio": 1999,
+      "descripcion": "Unsp inj msl/fasc/tnd post grp at thi lev, unsp thigh, init",
+      "idGenero": 5
+    },
+    {
+      "id": 94,
+      "nombre": "Mask of Dimitrios, The",
+      "calificacion": 2,
+      "clasifiacion": 18,
+      "anio": 2017,
+      "descripcion": "Irritant contact dermatitis",
+      "idGenero": 4
+    },
+    {
+      "id": 95,
+      "nombre": "Iron Giant, The",
+      "calificacion": 3,
+      "clasifiacion": 10,
+      "anio": 2004,
+      "descripcion": "Synovial cyst of popliteal space [Baker], unspecified knee",
+      "idGenero": 3
+    },
+    {
+      "id": 96,
+      "nombre": "Krrish",
+      "calificacion": 1,
+      "clasifiacion": 7,
+      "anio": 1992,
+      "descripcion": "Sclerosing mesenteritis",
+      "idGenero": 2
+    },
+    {
+      "id": 97,
+      "nombre": "Playing by Heart",
+      "calificacion": 2,
+      "clasifiacion": 0,
+      "anio": 2008,
+      "descripcion": "Nondisp seg fx shaft of ulna, r arm, 7thH",
+      "idGenero": 5
+    },
+    {
+      "id": 98,
+      "nombre": "Magnificent Obsession",
+      "calificacion": 3,
+      "clasifiacion": 0,
+      "anio": 2007,
+      "descripcion": "Bitten by other birds",
+      "idGenero": 5
+    },
+    {
+      "id": 99,
+      "nombre": "Jerk, The",
+      "calificacion": 3,
+      "clasifiacion": 5,
+      "anio": 1995,
+      "descripcion": "Underdosing of other topical agents, sequela",
+      "idGenero": 7
+    },
+    {
+      "id": 100,
+      "nombre": "Europa (Zentropa)",
+      "calificacion": 3,
+      "clasifiacion": 10,
+      "anio": 1995,
+      "descripcion": "Meningococcal meningitis",
+      "idGenero": 3
+    }
+  ],
+  "generos": [
+    {
+      "id": 1,
+      "nombre": "Comedy|Drama",
+      "descripcion": "Supplement Right Humeral Head with Autologous Tissue Substitute, Open Approach"
+    },
+    {
+      "id": 2,
+      "nombre": "Children|Comedy|Romance",
+      "descripcion": "Computerized Tomography (CT Scan) of Left Renal Vein using High Osmolar Contrast"
+    },
+    {
+      "id": 3,
+      "nombre": "Western",
+      "descripcion": "Excision of Right Upper Arm Tendon, Percutaneous Endoscopic Approach, Diagnostic"
+    },
+    {
+      "id": 4,
+      "nombre": "Drama|Romance",
+      "descripcion": "Insertion of Infusion Device into Peritoneal Cavity, Open Approach"
+    },
+    {
+      "id": 5,
+      "nombre": "Action|Thriller",
+      "descripcion": "Fragmentation in Left Main Bronchus, Via Natural or Artificial Opening"
+    },
+    {
+      "id": 6,
+      "nombre": "Documentary",
+      "descripcion": "Release Left Ethmoid Bone, Open Approach"
+    },
+    {
+      "id": 7,
+      "nombre": "Action|Horror|Sci-Fi",
+      "descripcion": "Destruction of Right Wrist Joint, Percutaneous Approach"
+    },
+    {
+      "id": 8,
+      "nombre": "Comedy",
+      "descripcion": "Excision of Thoracic Aorta, Descending, Open Approach, Diagnostic"
+    },
+    {
+      "id": 9,
+      "nombre": "Thriller",
+      "descripcion": "Range of Motion and Joint Mobility Treatment of Neurological System - Lower Back / Lower Extremity using Prosthesis"
+    },
+    {
+      "id": 10,
+      "nombre": "Comedy|Drama",
+      "descripcion": "Insertion of Pacemaker Lead into Left Ventricle, Percutaneous Approach"
+    }
+  ]
+}
